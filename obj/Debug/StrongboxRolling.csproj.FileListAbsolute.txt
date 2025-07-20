@@ -1,0 +1,15 @@
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Temp\Strongbox2\StrongboxRolling.deps.json
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Temp\Strongbox2\StrongboxRolling.runtimeconfig.json
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Temp\Strongbox2\StrongboxRolling.dll
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Temp\Strongbox2\StrongboxRolling.pdb
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Source\Strongbox2\obj\Debug\StrongboxRolling.csproj.AssemblyReference.cache
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Source\Strongbox2\obj\Debug\StrongboxRolling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Source\Strongbox2\obj\Debug\StrongboxRolling.AssemblyInfoInputs.cache
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Source\Strongbox2\obj\Debug\StrongboxRolling.AssemblyInfo.cs
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Source\Strongbox2\obj\Debug\StrongboxRolling.csproj.CoreCompileInputs.cache
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Source\Strongbox2\obj\Debug\StrongboxRolling.csproj.CopyComplete
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Source\Strongbox2\obj\Debug\StrongboxRolling.dll
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Source\Strongbox2\obj\Debug\refint\StrongboxRolling.dll
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Source\Strongbox2\obj\Debug\StrongboxRolling.pdb
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Source\Strongbox2\obj\Debug\StrongboxRolling.genruntimeconfig.cache
+C:\Users\kenzi\Desktop\AsjandusKatsekaks\Plugins\Source\Strongbox2\obj\Debug\ref\StrongboxRolling.dll

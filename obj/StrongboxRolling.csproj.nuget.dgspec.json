@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kenzi\\Desktop\\AsjandusKatsekaks\\Plugins\\Source\\Strongbox2\\StrongboxRolling.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kenzi\\Desktop\\AsjandusKatsekaks\\Plugins\\Source\\Strongbox2\\StrongboxRolling.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kenzi\\Desktop\\AsjandusKatsekaks\\Plugins\\Source\\Strongbox2\\StrongboxRolling.csproj",
+        "projectName": "StrongboxRolling",
+        "projectPath": "C:\\Users\\kenzi\\Desktop\\AsjandusKatsekaks\\Plugins\\Source\\Strongbox2\\StrongboxRolling.csproj",
+        "packagesPath": "C:\\Users\\kenzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kenzi\\Desktop\\AsjandusKatsekaks\\Plugins\\Source\\Strongbox2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kenzi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "ImGui.NET": {
+              "target": "Package",
+              "version": "[1.90.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "SharpDX": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "SharpDX.Mathematics": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
